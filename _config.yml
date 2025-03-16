@@ -1,0 +1,4 @@
+name: Stein Method at ICML 2019
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
+
